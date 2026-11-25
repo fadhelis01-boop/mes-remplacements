@@ -1,0 +1,17 @@
+{
+  "name": "Mes remplacements",
+  "short_name": "Remplacements",
+  "description": "Noter ses heures et jours de remplacement, avec totaux par mois.",
+  "lang": "fr",
+  "start_url": "./#saisir",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f5f8",
+  "theme_color": "#1f5f9e",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
